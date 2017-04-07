@@ -1,1 +1,6 @@
 c:\users\jarry\documents\visual studio 2015\Projects\Week2_day5-spring17\Week2_day5-spring17\bin\Debug\Week2_day5-spring17.exe.config
+c:\Users\Jarry\Documents\Visual Studio 2015\Projects\Week2_day5-spring17\Week2_day5-spring17\bin\Debug\Week2_day5-spring17.exe
+c:\Users\Jarry\Documents\Visual Studio 2015\Projects\Week2_day5-spring17\Week2_day5-spring17\bin\Debug\Week2_day5-spring17.pdb
+c:\Users\Jarry\Documents\Visual Studio 2015\Projects\Week2_day5-spring17\Week2_day5-spring17\obj\Debug\Week2_day5-spring17.csprojResolveAssemblyReference.cache
+c:\Users\Jarry\Documents\Visual Studio 2015\Projects\Week2_day5-spring17\Week2_day5-spring17\obj\Debug\Week2_day5-spring17.exe
+c:\Users\Jarry\Documents\Visual Studio 2015\Projects\Week2_day5-spring17\Week2_day5-spring17\obj\Debug\Week2_day5-spring17.pdb

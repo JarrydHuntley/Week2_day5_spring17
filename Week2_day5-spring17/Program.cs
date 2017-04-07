@@ -10,6 +10,8 @@ namespace Week2_day5_spring17
     {
         static void Main(string[] args)
         {
+            Person person1 = new Person("Bob", 30, "Cleveland");
+            Console.WriteLine(person1.name);
         }
     }
 }
