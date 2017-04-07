@@ -15,7 +15,7 @@ namespace Week2_day5_spring17
 
         public Person()
         {
-
+            this.name = "John Doe";
         }
    
         public Person(string name, int age, string hometown)
