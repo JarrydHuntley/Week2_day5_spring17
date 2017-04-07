@@ -39,6 +39,7 @@ namespace Week2_day5_spring17
             Console.WriteLine("Hello, my name is " + name);
             Console.WriteLine("I'm " + age + " and I'm from " + hometown);
             Console.WriteLine("My favorite food is " + favFood);
+            Console.WriteLine();
         }
     }
 }
